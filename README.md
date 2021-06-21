@@ -1,0 +1,2 @@
+# Shibushinu.com
+Core Hub 
